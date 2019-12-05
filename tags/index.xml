@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on EVOLUTION</title>
+    <link>https://godjarl.github.io/tags/</link>
+    <description>Recent content in Tags on EVOLUTION</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 04 Dec 2019 00:09:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://godjarl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>梅西</title>
+      <link>https://godjarl.github.io/tags/%E6%A2%85%E8%A5%BF/</link>
+      <pubDate>Wed, 04 Dec 2019 00:09:20 +0800</pubDate>
+      
+      <guid>https://godjarl.github.io/tags/%E6%A2%85%E8%A5%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>狗人</title>
+      <link>https://godjarl.github.io/tags/%E7%8B%97%E4%BA%BA/</link>
+      <pubDate>Wed, 04 Dec 2019 00:09:20 +0800</pubDate>
+      
+      <guid>https://godjarl.github.io/tags/%E7%8B%97%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>足球</title>
+      <link>https://godjarl.github.io/tags/%E8%B6%B3%E7%90%83/</link>
+      <pubDate>Wed, 04 Dec 2019 00:09:20 +0800</pubDate>
+      
+      <guid>https://godjarl.github.io/tags/%E8%B6%B3%E7%90%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>金球奖</title>
+      <link>https://godjarl.github.io/tags/%E9%87%91%E7%90%83%E5%A5%96/</link>
+      <pubDate>Wed, 04 Dec 2019 00:09:20 +0800</pubDate>
+      
+      <guid>https://godjarl.github.io/tags/%E9%87%91%E7%90%83%E5%A5%96/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
